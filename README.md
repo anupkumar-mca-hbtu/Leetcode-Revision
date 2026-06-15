@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anupkumar-mca-hbtu/Leetcode-Revision/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/anupkumar-mca-hbtu/Leetcode-Revision/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/anupkumar-mca-hbtu/Leetcode-Revision/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/anupkumar-mca-hbtu/Leetcode-Revision/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anupkumar-mca-hbtu/Leetcode-Revision/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/anupkumar-mca-hbtu/Leetcode-Revision/tree/master/0075-sort-colors) |
+| [0287-find-the-duplicate-number](https://github.com/anupkumar-mca-hbtu/Leetcode-Revision/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
 | ------- |
@@ -94,4 +96,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/anupkumar-mca-hbtu/Leetcode-Revision/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anupkumar-mca-hbtu/Leetcode-Revision/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/anupkumar-mca-hbtu/Leetcode-Revision/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/anupkumar-mca-hbtu/Leetcode-Revision/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
