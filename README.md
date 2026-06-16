@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anupkumar-mca-hbtu/Leetcode-Revision/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/anupkumar-mca-hbtu/Leetcode-Revision/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anupkumar-mca-hbtu/Leetcode-Revision/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/anupkumar-mca-hbtu/Leetcode-Revision/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/anupkumar-mca-hbtu/Leetcode-Revision/tree/master/0075-sort-colors) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anupkumar-mca-hbtu/Leetcode-Revision/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/anupkumar-mca-hbtu/Leetcode-Revision/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/anupkumar-mca-hbtu/Leetcode-Revision/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/anupkumar-mca-hbtu/Leetcode-Revision/tree/master/0287-find-the-duplicate-number) |
 ## Stack
