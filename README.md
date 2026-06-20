@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/anupkumar-mca-hbtu/Leetcode-Revision/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anupkumar-mca-hbtu/Leetcode-Revision/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anupkumar-mca-hbtu/Leetcode-Revision/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/anupkumar-mca-hbtu/Leetcode-Revision/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/anupkumar-mca-hbtu/Leetcode-Revision/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/anupkumar-mca-hbtu/Leetcode-Revision/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/anupkumar-mca-hbtu/Leetcode-Revision/tree/master/0268-missing-number) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/anupkumar-mca-hbtu/Leetcode-Revision/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/anupkumar-mca-hbtu/Leetcode-Revision/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/anupkumar-mca-hbtu/Leetcode-Revision/tree/master/0268-missing-number) |
 ## Linked List
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anupkumar-mca-hbtu/Leetcode-Revision/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/anupkumar-mca-hbtu/Leetcode-Revision/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/anupkumar-mca-hbtu/Leetcode-Revision/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/anupkumar-mca-hbtu/Leetcode-Revision/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/anupkumar-mca-hbtu/Leetcode-Revision/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/anupkumar-mca-hbtu/Leetcode-Revision/tree/master/0287-find-the-duplicate-number) |
 ## Stack
