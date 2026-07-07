@@ -16,17 +16,29 @@ class Solution {
          if(head.next==null) {
             return null;
          }
-        while(fast.next!= null) {
-            fast= fast.next;
-            count++;
+        // while(fast.next!= null) {
+        //     fast= fast.next;
+        //     count++;
+        // }
+        // if(count==n) {
+        //     return head.next;
+        // }
+        
+        // int target_node= count-n+1;
+        // for(int i=1;i<target_node-1;i++) {
+        //     slow= slow.next;
+        // }
+        // slow.next= slow.next.next;
+        // return head;
+        for(int i=0;i<n;i++) {
+            fast=fast.next;
         }
-        if(count==n) {
+        if(fast==null) {
             return head.next;
         }
-        
-        int target_node= count-n+1;
-        for(int i=1;i<target_node-1;i++) {
-            slow= slow.next;
+        while(fast.next!=null) {
+            fast=fast.next;
+            slow=slow.next;
         }
         slow.next= slow.next.next;
         return head;
