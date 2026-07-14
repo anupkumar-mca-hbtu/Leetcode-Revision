@@ -1,13 +1,11 @@
 class Solution {
     public int lengthOfLongestSubstring(String s) {
-
-        /* first check the character is in the hashSet or not, if it conatins remove the left character and increment the left pointer, if it doesnot contain add it in hashSet and update the answer variable and inecrement the right pointer. */
-      
-        if(s==null || s.length()==0) {
+        
+         if(s==null || s.length()==0) {
             return 0;
         }
-         if(s.length()==1) {
-            return 1;
+        if(s.length()==1) {
+             return 1;
         }
           int left=0;
           int right=0;
@@ -24,6 +22,5 @@ class Solution {
             right++;
           }
           return ans;
-        
     }
 }
